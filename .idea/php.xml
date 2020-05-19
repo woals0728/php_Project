@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../intelliJ 프로젝트/ljm_shop" />
+    </include_path>
+  </component>
+  <component name="PhpRuntimeConfiguration" document_root_path="jdbc:mysql://l.bsks.ac.kr:3306/p201606023?serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=utf8&amp;allowPublicKeyRetrieval=true&amp;useSSL=false" />
+</project>

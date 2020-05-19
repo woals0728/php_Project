@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="p201606023@l.bsks.ac.kr" uuid="e4a4e803-3966-41e1-8c56-f007a9d56380">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://l.bsks.ac.kr:3306/p201606023?serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=utf8&amp;allowPublicKeyRetrieval=true&amp;useSSL=false</jdbc-url>
+    </data-source>
+  </component>
+</project>

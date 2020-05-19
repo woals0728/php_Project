@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="343e2018-7fa8-448d-8c20-40c9f3db2ed5" name="bsks" url="http://l.bsks.ac.kr/p201606023/project">
+        <fileTransfer host="l.bsks.ac.kr" port="22" rootFolder="/home/p201606023/public_html/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
